@@ -4,7 +4,7 @@
 - requests
 - beautifullsoup
 
-# Steps to install
+## Steps to install
 - pip install requests
 - pip install beautifulsoup4
 
